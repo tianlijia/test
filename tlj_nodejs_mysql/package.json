@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.0.2",
+    "async": "^0.9.0",
+    "cookie-parser": "^1.0.1",
+    "ejs": "^0.8.8",
+    "debug": "^0.7.4",
+    "express": "^4.2.0",
+    "express-partials": "^0.3.0",
+    "mysql": "^2.5.4",
+    "less-middleware": "^1.0.3",
+    "static-favicon": "^1.0.2",
+    "morgan": "^1.0.1",
+    "supervisor": "^0.6.0",
+    "vitex-mysql": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
